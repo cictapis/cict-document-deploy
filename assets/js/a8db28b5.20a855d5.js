@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcict_document=self.webpackChunkcict_document||[]).push([[3385],{2165:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/cict-document-deploy/blog/tags/hello","allTagsPath":"/cict-document-deploy/blog/tags","count":2}')}}]);
